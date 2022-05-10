@@ -105,7 +105,7 @@ feed:
   path: atom.xml
   limit: 20
 ## Themes: https://hexo.io/themes/
-theme: hueman
+theme: landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
